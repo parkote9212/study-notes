@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e69c32c54f48fb30",
+        "id": "3732a9f1d1abccd1",
         "type": "tabs",
         "children": [
           {
-            "id": "0a468316753cf248",
+            "id": "7377394200a6c843",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-daily/2026-01-19.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-01-19"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
             }
           }
         ]
@@ -195,24 +191,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0a468316753cf248",
+  "active": "f7b791594149753f",
   "lastOpenFiles": [
-    "01-daily/2026-01-19.md",
-    "templates/interview-question.md",
+    "02-study/python/ai-ml/청킹-최적화-가이드.md",
+    "02-study/python/ai-ml/LangChain-PDF-Loader.md",
+    "02-study/tools/ide/Claude-Desktop-활용-가이드.md",
+    "02-study/tools/ide/Claude-Desktop-MCP-설정가이드.md",
+    "04-interview/general",
+    "04-interview/system-design",
+    "04-interview/linux",
+    "04-interview/aws",
+    "04-interview/devops",
+    "04-interview/database",
+    "04-interview/backend",
+    "04-interview/frontend",
+    "02-study/python/ai-ml",
+    "02-study/python/numpy",
     "templates/study-note.md.md",
+    "templates/interview-question.md",
     "templates/daily-note.md",
     "05-projects/개발환경 세팅 가이드.md.md",
+    "01-daily/2026-01-19.md",
     "00-inbox/test.md",
-    "무제.base",
-    "templates",
-    "05-projects",
-    "04-interview",
-    "03-algorithm",
-    "02-study/무제",
-    "02-study/devops",
-    "02-study/python",
-    "02-study/typescript",
-    "02-study/javascript",
     "환영합니다!.md"
   ]
 }
