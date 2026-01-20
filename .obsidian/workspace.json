@@ -11,10 +11,14 @@
             "id": "7377394200a6c843",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "type": "markdown",
+              "state": {
+                "file": "04-interview/backend/Java-기본-API-면접.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Java-기본-API-면접"
             }
           }
         ]
@@ -152,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-inbox/test.md",
+                "file": "04-interview/backend/Java-기본-API-면접.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "test 의 개요"
+              "title": "Java-기본-API-면접 의 개요"
             }
           },
           {
@@ -191,12 +195,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f7b791594149753f",
+  "active": "7377394200a6c843",
   "lastOpenFiles": [
-    "02-study/python/ai-ml/청킹-최적화-가이드.md",
-    "02-study/python/ai-ml/LangChain-PDF-Loader.md",
+    "00-inbox/[Java 함수형] 2 2 - Stream API 2d0800a6a8978041a1adc67693f9589c.md",
+    "04-interview/backend/Java-기본-API-면접.md",
+    "00-inbox/Java 제네릭 완벽 가이드 (타입 안전성) 2eb800a6a89781fbbbafe9c02256e633.md",
+    "04-interview/backend/Java-동시성-면접.md",
+    "04-interview/backend/Java-정적-팩토리-메서드-면접.md",
+    "04-interview/backend/Java-제네릭-면접.md",
+    "04-interview/backend/Java-함수형-면접.md",
+    "04-interview/backend/Java-Record-vs-POJO-면접.md",
+    "02-study/database/jpa/JPA-실무-패턴.md",
+    "02-study/backend/java/Java-함수형-프로그래밍.md",
+    "02-study/backend/java/Java-동시성-멀티스레드.md",
+    "02-study/backend/java/Java-기본-API-완벽-가이드.md",
+    "02-study/backend/java/Java-Record-vs-POJO.md",
+    "00-inbox/Java Record vs POJO (MyBatis, JPA 관점) 2ea800a6a897818ca926f47215ec9812.md",
+    "02-study/backend/java/Java-제네릭-완벽-가이드.md",
+    "02-study/backend/java/Java-정적-팩토리-메서드.md",
+    "templates/study-note.md.md",
+    "templates/daily-note.md",
+    "templates/interview-question.md",
     "02-study/tools/ide/Claude-Desktop-활용-가이드.md",
     "02-study/tools/ide/Claude-Desktop-MCP-설정가이드.md",
+    "00-inbox/Java 정적 팩토리 메서드 2e2800a6a8978193bab0fa3a2302e8b1.md",
+    "00-inbox/Java 기본 API 완벽 가이드 (Object, String, 날짜) 2eb800a6a89781a69ae8f6657f9877a5.md",
+    "00-inbox/📄 [기술명] Deep Dive & Implementation 2d0800a6a8978042857bd8e68d4694b8.md",
+    "00-inbox/[TDD 3 3] 고급편 - 2026년 최신 트렌드 & 베스트 프랙티스 2eb800a6a89781ac8193d62255d81587.md",
+    "00-inbox/[TDD 2 3] 실전편 - Spring Boot 테스트 완벽 가이드 2eb800a6a89781488976ed4267708997.md",
     "04-interview/general",
     "04-interview/system-design",
     "04-interview/linux",
@@ -206,13 +232,6 @@
     "04-interview/backend",
     "04-interview/frontend",
     "02-study/python/ai-ml",
-    "02-study/python/numpy",
-    "templates/study-note.md.md",
-    "templates/interview-question.md",
-    "templates/daily-note.md",
-    "05-projects/개발환경 세팅 가이드.md.md",
-    "01-daily/2026-01-19.md",
-    "00-inbox/test.md",
-    "환영합니다!.md"
+    "02-study/python/numpy"
   ]
 }
