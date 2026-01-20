@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-inbox/test.md",
+                "file": "01-daily/2026-01-19.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "2026-01-19"
             }
           }
         ]
@@ -184,6 +184,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "switcher:빠른 전환기 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
@@ -194,8 +195,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f7b791594149753f",
+  "active": "0a468316753cf248",
   "lastOpenFiles": [
+    "01-daily/2026-01-19.md",
+    "templates/interview-question.md",
+    "templates/study-note.md.md",
+    "templates/daily-note.md",
+    "05-projects/개발환경 세팅 가이드.md.md",
     "00-inbox/test.md",
     "무제.base",
     "templates",
