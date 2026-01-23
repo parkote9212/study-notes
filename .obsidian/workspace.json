@@ -4,37 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "a2f3a0b40c26eb63",
+        "id": "3f93bc410bba30b9",
         "type": "tabs",
         "children": [
           {
-            "id": "fcdb61fe5e7bd5e8",
+            "id": "fe7e10c799ff356c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-study/backend/spring/DTO_검증_전략.md",
+                "file": "02-study/tools/mcp/Claude-Desktop-활용-가이드.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DTO_검증_전략"
-            }
-          },
-          {
-            "id": "0a3a61fdf9f2d7e3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.5"
-              },
-              "icon": "lucide-book-up",
-              "title": "릴리즈 노트 1.11.5"
+              "title": "Claude-Desktop-활용-가이드"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-inbox/test.md",
+                "file": "04-interview/database/MyBatis-통계쿼리-면접.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "test 의 백링크"
+              "title": "MyBatis-통계쿼리-면접 의 백링크"
             }
           },
           {
@@ -126,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-inbox/test.md",
+                "file": "04-interview/database/MyBatis-통계쿼리-면접.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "test 의 나가는 링크"
+              "title": "MyBatis-통계쿼리-면접 의 나가는 링크"
             }
           },
           {
@@ -169,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-daily/2026-01-20.md",
+                "file": "04-interview/database/MyBatis-통계쿼리-면접.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-01-20 의 개요"
+              "title": "MyBatis-통계쿼리-면접 의 개요"
             }
           },
           {
@@ -186,6 +173,16 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "ffcb14550f095a25",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
@@ -208,43 +205,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0a3a61fdf9f2d7e3",
+  "active": "f7b791594149753f",
   "lastOpenFiles": [
-    "02-study/backend/java/Java-Record-vs-POJO.md",
-    "02-study/backend/spring/DTO_검증_전략.md",
-    "04-interview/backend/검증_로직_계층_배치_면접.md",
-    "04-interview/backend/Java-기본-API-면접.md",
-    "04-interview/backend/Java-정적-팩토리-메서드-면접.md",
-    "02-study/backend/java/Java-기본-API-완벽-가이드.md",
-    "Fail_Fast_원칙.md",
-    "01-daily/2026-01-20.md",
-    "01-daily/2026-01-21.md",
-    "02-study/frontend/react/ProtectedRoute_인증_보호.md",
-    "02-study/backend/Pessimistic_Lock_동시성제어.md",
-    "02-study/frontend/ProtectedRoute_인증_페이지_보호.md",
-    "02-study/backend/DTO_검증_전략.md",
-    "04-interview/backend/JPA_동시성_제어_면접.md",
-    "02-study/database/jpa/Pessimistic_Lock_동시성제어.md",
-    "JPA_Lock_전략.md",
-    "templates/study-note.md.md",
-    "04-interview/backend/Java-Record-vs-POJO-면접.md",
-    "04-interview/backend/Java-함수형-면접.md",
-    "04-interview/backend/Java-제네릭-면접.md",
+    "02-study/devops/docker/Docker-Compose.md",
+    "02-study/devops/docker/Dockerfile-작성법.md",
+    "02-study/devops/docker/Docker-기본-명령어.md",
+    "02-study/tools/mcp/Claude-Desktop-MCP-설정가이드.md",
+    "02-study/tools/mcp",
+    "02-study/tools/mcp/Claude-Desktop-활용-가이드.md",
+    "04-interview/projects/bizsync/bizsync-면접-SpringSecurity-JWT.md",
+    "04-interview/projects/bizsync/bizsync-면접-JPA-MyBatis.md",
+    "00-inbox/[Spring Boot] 환경별 설정 관리 완벽 가이드 (Profile, env) 2ea800a6a897818cb0a8ecb48d625ed2.md",
     "04-interview/backend/Java-동시성-면접.md",
-    "02-study/backend/java/Java-동시성-멀티스레드.md",
-    "00-inbox/[Java 함수형] 2 2 - Stream API 2d0800a6a8978041a1adc67693f9589c.md",
-    "00-inbox/Java 제네릭 완벽 가이드 (타입 안전성) 2eb800a6a89781fbbbafe9c02256e633.md",
-    "02-study/database/jpa/JPA-실무-패턴.md",
-    "02-study/backend/java/Java-함수형-프로그래밍.md",
-    "04-interview/general",
-    "04-interview/system-design",
-    "04-interview/linux",
-    "04-interview/aws",
-    "04-interview/devops",
-    "04-interview/database",
-    "04-interview/backend",
-    "04-interview/frontend",
-    "02-study/python/ai-ml",
-    "02-study/python/numpy"
+    "04-interview/backend/Java-기본-API-면접.md",
+    "04-interview/database/MyBatis-통계쿼리-면접.md",
+    "structure.txt.sb-77c59309-yKATjL",
+    "structure.txt",
+    "02-study/database/mybatis/MyBatis-동적SQL.md",
+    "02-study/database/mybatis/MyBatis-통계쿼리-집계함수.md",
+    "02-study/database/mybatis/MyBatis-CTE-WITH절.md",
+    "02-study/database/mybatis/MyBatis-Window-Function.md",
+    "02-study/database/mybatis/MyBatis-결과매핑-ResultMap.md",
+    "02-study/database/mybatis/MyBatis-동적SQL-XML매퍼.md",
+    "04-interview/database/MyBatis-동적SQL-면접.md",
+    "04-interview/database/MyBatis-Window-Function-면접.md",
+    "04-interview/database/MyBatis-CTE-면접.md",
+    "templates/study-note.md.md",
+    "templates/daily-note.md",
+    "templates/interview-question.md",
+    "04-interview/database/JPA-N+1문제해결-면접.md",
+    "04-interview/MyBatis",
+    "02-study/MyBatis",
+    "02-study/frontend/react/react-ProtectedRoute_인증_보호.md",
+    "02-study/database/sql/sql-Mybatis-JPA비교.md",
+    "04-interview/JPA",
+    "02-study/JPA",
+    "04-interview/projects/side-proj",
+    "04-interview/projects/fitneeds",
+    "04-interview/projects/bizsync"
   ]
 }
