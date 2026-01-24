@@ -1,6 +1,11 @@
 ---
-tags: study, JPA, Lock, Concurrency
+tags:
+  - study
+  - jpa
+  - lock
+  - concurrency
 created: 2026-01-24
+difficulty: 중
 ---
 
 # Pessimistic Lock 동시성 제어

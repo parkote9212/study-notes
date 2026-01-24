@@ -1,3 +1,14 @@
+---
+tags:
+  - study
+  - functional
+  - java
+  - 함수형
+  - 람다
+  - 스트림
+created: 2026-01-23
+difficulty: 상
+---
 # Java 함수형 프로그래밍: 람다와 Stream API
 
 🏷️기술 카테고리: Functional, Java

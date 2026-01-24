@@ -1,5 +1,8 @@
 ---
-tags: interview, JPA, 성능최적화
+tags:
+  - interview
+  - JPA
+  - 성능최적화
 created: 2026-01-23
 difficulty: 최상
 ---

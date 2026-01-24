@@ -1,3 +1,9 @@
+---
+tags:
+  - study
+created: 2026-01-23
+difficulty: 중
+---
 # Claude Desktop MCP 설정 가이드
 
 ## MCP (Model Context Protocol)란?

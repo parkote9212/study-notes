@@ -1,3 +1,14 @@
+---
+tags:
+  - study
+  - design-pattern
+  - spring
+  - 디자인패턴
+  - 레이어드아키텍처
+  - ddd
+created: 2026-01-23
+difficulty: 상
+---
 # Spring-디자인패턴-DAO vs Repository
 
 🏷️기술 카테고리: Design Pattern, Spring

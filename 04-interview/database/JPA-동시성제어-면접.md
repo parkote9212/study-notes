@@ -1,5 +1,9 @@
 ---
-tags: interview, JPA, Database, Lock
+tags:
+  - interview
+  - JPA
+  - Database
+  - Lock
 created: 2026-01-24
 difficulty: 상
 ---

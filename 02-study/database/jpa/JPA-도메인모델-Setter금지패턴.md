@@ -1,3 +1,14 @@
+---
+tags:
+  - study
+  - design-pattern
+  - jpa
+  - 도메인주도설계
+  - 캡슐화
+  - 클린코드
+created: 2026-01-23
+difficulty: 상
+---
 # JPA-도메인모델-Setter금지패턴
 
 🏷️기술 카테고리: Design Pattern, JPA

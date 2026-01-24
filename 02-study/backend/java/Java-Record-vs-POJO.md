@@ -1,11 +1,15 @@
-# Java Record vs POJO (MyBatis, JPA 관점)
+---
+tags:
+  - study
+  - jpa
+  - java
+  - 리플렉션
+  - 불변성
+created: 2026-01-16
+difficulty: 상
+---
 
-🏷️기술 카테고리: JPA, Java
-💡핵심키워드: #리플렉션, #불변성
-💼 면접 빈출도: 상
-⚖️ 의사결정(A vs B): Yes
-날짜: 2026년 1월 16일 오후 10:53
-📅 다음 복습일: 2026년 1월 25일
+# Java Record vs POJO (MyBatis, JPA 관점)
 
 # 1. Abstract: 핵심 요약
 

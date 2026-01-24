@@ -1,5 +1,9 @@
 ---
-tags: interview, mybatis, sql, window-function
+tags:
+  - interview
+  - mybatis
+  - sql
+  - window-function
 created: 2025-01-23
 difficulty: 중
 ---

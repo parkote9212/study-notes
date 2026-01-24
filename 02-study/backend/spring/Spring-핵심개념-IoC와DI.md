@@ -1,3 +1,15 @@
+---
+tags:
+  - study
+  - design-pattern
+  - spring-core
+  - di
+  - ioc
+  - solid
+  - 빈생명주기
+created: 2026-01-23
+difficulty: 상
+---
 # Spring-핵심개념-IoC와DI
 
 🏷️기술 카테고리: Design Pattern, Spring Core

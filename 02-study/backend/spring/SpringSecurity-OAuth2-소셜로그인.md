@@ -1,3 +1,15 @@
+---
+tags:
+  - study
+  - security
+  - spring
+  - oauth2
+  - 소셜로그인
+  - 구글
+  - 카카오
+created: 2026-01-23
+difficulty: 상
+---
 # SpringSecurity-OAuth2-소셜로그인
 
 🏷️기술 카테고리: Security, Spring

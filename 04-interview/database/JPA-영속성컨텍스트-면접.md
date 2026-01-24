@@ -1,5 +1,8 @@
 ---
-tags: interview, JPA, 영속성컨텍스트
+tags:
+  - interview
+  - JPA
+  - 영속성컨텍스트
 created: 2026-01-23
 difficulty: 최상
 ---

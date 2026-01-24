@@ -1,5 +1,8 @@
 ---
-tags: interview, mybatis, dynamic-sql
+tags:
+  - interview
+  - mybatis
+  - dynamic-sql
 created: 2025-01-23
 difficulty: 중
 ---

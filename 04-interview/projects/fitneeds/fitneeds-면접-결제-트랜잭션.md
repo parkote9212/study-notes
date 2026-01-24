@@ -1,5 +1,11 @@
 ---
-tags: interview, transaction, payment, spring, fitneeds, project
+tags:
+  - interview
+  - transaction
+  - payment
+  - spring
+  - fitneeds
+  - project
 created: 2025-01-23
 difficulty: 중
 ---

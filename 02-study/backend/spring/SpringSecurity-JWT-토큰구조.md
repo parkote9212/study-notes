@@ -1,3 +1,14 @@
+---
+tags:
+  - study
+  - security
+  - spring
+  - jwt
+  - stateless
+  - 토큰인증
+created: 2026-01-23
+difficulty: 상
+---
 # SpringSecurity-JWT-토큰구조
 
 🏷️기술 카테고리: Security, Spring

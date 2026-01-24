@@ -1,3 +1,14 @@
+---
+tags:
+  - study
+  - security
+  - spring
+  - springsecurity
+  - 아키텍처
+  - 필터체인
+created: 2026-01-23
+difficulty: 상
+---
 # SpringSecurity-기초-아키텍처
 
 🏷️기술 카테고리: Security, Spring

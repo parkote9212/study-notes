@@ -1,5 +1,8 @@
 ---
-tags: interview, Docker, DevOps
+tags:
+  - interview
+  - Docker
+  - DevOps
 created: 2026-01-24
 difficulty: 상
 ---

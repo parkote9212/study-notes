@@ -1,3 +1,13 @@
+---
+tags:
+  - study
+  - java
+  - standard-api
+  - 불변성
+  - 캐싱
+created: 2026-01-17
+difficulty: 상
+---
 # Java 기본 API 완벽 가이드 (Object, String, 날짜)
 
 🏷️기술 카테고리: Java, Standard API

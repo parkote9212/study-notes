@@ -1,3 +1,14 @@
+---
+tags:
+  - study
+  - security
+  - spring
+  - springsecurity
+  - rbac
+  - 권한관리
+created: 2026-01-23
+difficulty: 상
+---
 # SpringSecurity-인증인가-Role기반권한
 
 🏷️기술 카테고리: Security, Spring

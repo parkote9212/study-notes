@@ -1,5 +1,11 @@
 ---
-tags: interview, rest-api, spring, validation, fitneeds, project
+tags:
+  - interview
+  - rest-api
+  - spring
+  - validation
+  - fitneeds
+  - project
 created: 2025-01-23
 difficulty: 중
 ---

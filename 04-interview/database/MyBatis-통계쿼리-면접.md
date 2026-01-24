@@ -1,5 +1,9 @@
 ---
-tags: interview, mybatis, sql, aggregate
+tags:
+  - interview
+  - mybatis
+  - sql
+  - aggregate
 created: 2025-01-23
 difficulty: 중
 ---

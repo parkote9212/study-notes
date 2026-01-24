@@ -1,3 +1,13 @@
+---
+tags:
+  - study
+  - jpa
+  - spring
+  - 쿼리최적화
+  - 타입안전
+created: 2026-01-23
+difficulty: 상
+---
 # JPA-쿼리-QueryDSL
 
 🏷️기술 카테고리: JPA, Spring

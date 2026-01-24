@@ -1,5 +1,9 @@
 ---
-tags: interview, JPA, Concurrency, Transaction
+tags:
+  - interview
+  - JPA
+  - Concurrency
+  - Transaction
 created: 2026-01-20
 difficulty: 상
 ---

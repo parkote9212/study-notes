@@ -1,3 +1,13 @@
+---
+tags:
+  - study
+  - design-pattern
+  - java
+  - 디자인패턴
+  - 캐싱
+created: 2026-01-08
+difficulty: 상
+---
 # Java 정적 팩토리 메서드
 
 🏷️기술 카테고리: Design Pattern, Java

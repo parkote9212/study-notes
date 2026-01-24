@@ -1,3 +1,9 @@
+---
+tags:
+  - study
+created: 2026-01-23
+difficulty: 중
+---
 # 🤖 Claude Desktop 활용 가이드 A to Z
 
 Claude Desktop과 Claude.ai를 개발자 관점에서 완벽하게 활용하는 방법을 정리했습니다.

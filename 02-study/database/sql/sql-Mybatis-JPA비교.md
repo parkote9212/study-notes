@@ -1,3 +1,14 @@
+---
+tags:
+  - study
+  - database
+  - jpa
+  - spring
+  - mybatis
+  - 아키텍처
+created: 2026-01-23
+difficulty: 상
+---
 # MyBatis-기술선택-JPA비교
 
 🏷️기술 카테고리: DataBase, JPA, Spring

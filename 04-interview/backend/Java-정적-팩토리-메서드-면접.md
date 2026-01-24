@@ -1,5 +1,8 @@
 ---
-tags: interview, java, design-pattern
+tags:
+  - interview
+  - java
+  - design-pattern
 created: 2026-01-08
 difficulty: 상
 ---

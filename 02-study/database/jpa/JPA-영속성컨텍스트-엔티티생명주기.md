@@ -1,3 +1,13 @@
+---
+tags:
+  - study
+  - jpa
+  - spring
+  - 영속성컨텍스트
+  - 캐싱
+created: 2026-01-23
+difficulty: 상
+---
 # JPA-영속성컨텍스트-엔티티생명주기
 
 🏷️기술 카테고리: JPA, Spring

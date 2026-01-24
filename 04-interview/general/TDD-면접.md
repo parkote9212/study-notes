@@ -1,5 +1,9 @@
 ---
-tags: interview, TDD, Testing, Backend
+tags:
+  - interview
+  - TDD
+  - Testing
+  - Backend
 created: 2026-01-24
 difficulty: 상
 ---

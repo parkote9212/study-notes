@@ -1,5 +1,7 @@
 ---
-tags: interview, java
+tags:
+  - interview
+  - java
 created: 2026-01-17
 difficulty: 최상
 ---

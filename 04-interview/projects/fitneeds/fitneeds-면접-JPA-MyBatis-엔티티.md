@@ -1,5 +1,11 @@
 ---
-tags: interview, jpa, mybatis, spring, fitneeds, project
+tags:
+  - interview
+  - jpa
+  - mybatis
+  - spring
+  - fitneeds
+  - project
 created: 2025-01-23
 difficulty: 중
 ---

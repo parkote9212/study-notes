@@ -1,5 +1,9 @@
 ---
-tags: interview, mybatis, sql, cte
+tags:
+  - interview
+  - mybatis
+  - sql
+  - cte
 created: 2025-01-23
 difficulty: 중
 ---

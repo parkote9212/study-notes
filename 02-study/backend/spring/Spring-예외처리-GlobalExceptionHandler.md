@@ -1,3 +1,15 @@
+---
+tags:
+  - study
+  - exception
+  - spring
+  - aop
+  - 에러핸들링
+  - 예외처리
+  - 커스텀예외
+created: 2026-01-23
+difficulty: 상
+---
 # Spring-예외처리-GlobalExceptionHandler
 
 🏷️기술 카테고리: Exception, Spring

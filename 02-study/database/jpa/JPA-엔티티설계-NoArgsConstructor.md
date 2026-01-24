@@ -1,3 +1,14 @@
+---
+tags:
+  - study
+  - design-pattern
+  - jpa
+  - 디자인패턴
+  - 클린코드
+  - 프록시
+created: 2026-01-23
+difficulty: 상
+---
 # JPA-엔티티설계-NoArgsConstructor
 
 🏷️기술 카테고리: Design Pattern, JPA

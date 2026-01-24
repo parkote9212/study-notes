@@ -1,3 +1,9 @@
+---
+tags:
+  - study
+created: 2026-01-23
+difficulty: 중
+---
 # LangChain PDF Loader
 
 ## **주요 기능**
