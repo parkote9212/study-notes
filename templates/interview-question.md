@@ -1,5 +1,7 @@
 ---
-tags: interview, {{topic}}
+tags:
+  - interview
+  - {{topic}}
 created: {{date:YYYY-MM-DD}}
 difficulty: 중
 ---

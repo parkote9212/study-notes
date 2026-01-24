@@ -1,9 +1,34 @@
 ---
-tags: interview, webflux, webclient, api, side-proj, project
-created: 2025-01-23
+tags: interview, {{topic}}
+created:
+  "{ date:YYYY-MM-DD }":
 difficulty: 중
 ---
 
+# {{title}}
+
+## 질문
+> 
+
+## 핵심 답변 (3줄)
+1. 
+2. 
+3. 
+
+## 상세 설명
+
+
+## 코드 예시 (필요시)
+```java
+```
+
+## 꼬리 질문 예상
+- 
+- 
+
+## 참고
+- [[]]
+```
 # Side-Proj - WebClient & 외부 API 연동 면접
 
 ## 질문 1: WebClient vs RestTemplate 선택 이유

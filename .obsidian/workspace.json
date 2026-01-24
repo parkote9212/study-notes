@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-study/tools/mcp/Claude-Desktop-활용-가이드.md",
+                "file": "02-study/backend/java/Java-기본-API-완벽-가이드.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Claude-Desktop-활용-가이드"
+              "title": "Java-기본-API-완벽-가이드"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:interview, {{topic}}",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,43 +205,42 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f7b791594149753f",
+  "active": "fe7e10c799ff356c",
   "lastOpenFiles": [
-    "02-study/devops/docker/Docker-Compose.md",
-    "02-study/devops/docker/Dockerfile-작성법.md",
-    "02-study/devops/docker/Docker-기본-명령어.md",
-    "02-study/tools/mcp/Claude-Desktop-MCP-설정가이드.md",
-    "02-study/tools/mcp",
+    "02-study/frontend/react/TanStack-Query-REST-API.md",
+    "04-interview/projects/side-proj/side-proj-면접-WebClient-API연동.md",
+    "templates/interview-question.md",
+    "templates/daily-note.md",
+    "templates/study-note.md.md",
+    "templates/interview-question.md.sb-77c59309-hV8SX1",
+    "templates/study-note.md.md.sb-77c59309-nQ6uJ5",
+    "04-interview/projects/side-proj/side-proj-면접-외부API-배치.md",
+    "00-inbox/Pessimistic_Lock_동시성제어.md",
+    "02-study/frontend/react/Vite-개발환경.md",
+    "02-study/backend/testing/TDD-고급-2026-최신-트렌드.md",
+    "04-interview/backend/Java-함수형-면접.md",
+    "02-study/backend/testing/TDD-실전-Spring-Boot-테스트.md",
+    "02-study/frontend/react/shadcn-ui-Tailwind-CSS.md",
+    "02-study/frontend/react/Zustand-React-Hook-Form.md",
+    "04-interview/frontend/React-면접.md",
+    "02-study/backend/spring/Spring-DTO-검증&전략.md",
+    "04-interview/backend/Java-제네릭-면접.md",
+    "04-interview/database/JPA-동시성제어-면접.md",
+    "04-interview/devops/Docker-면접.md",
+    "04-interview/backend/TDD-면접.md",
+    "04-interview/backend/SpringBoot-환경설정-면접.md",
     "02-study/tools/mcp/Claude-Desktop-활용-가이드.md",
-    "04-interview/projects/bizsync/bizsync-면접-SpringSecurity-JWT.md",
-    "04-interview/projects/bizsync/bizsync-면접-JPA-MyBatis.md",
-    "00-inbox/[Spring Boot] 환경별 설정 관리 완벽 가이드 (Profile, env) 2ea800a6a897818cb0a8ecb48d625ed2.md",
-    "04-interview/backend/Java-동시성-면접.md",
-    "04-interview/backend/Java-기본-API-면접.md",
-    "04-interview/database/MyBatis-통계쿼리-면접.md",
+    "02-study/database/jpa/JPA-Pessimistic-Lock-동시성제어.md",
+    "02-study/backend/testing/TDD-기초-Red-Green-Refactor.md",
+    "02-study/backend/spring-boot/SpringBoot-환경별-설정-관리.md",
+    "02-study/frontend/react/React-19-TypeScript-핵심.md",
+    "02-study/tools/mcp",
     "structure.txt.sb-77c59309-yKATjL",
     "structure.txt",
-    "02-study/database/mybatis/MyBatis-동적SQL.md",
-    "02-study/database/mybatis/MyBatis-통계쿼리-집계함수.md",
-    "02-study/database/mybatis/MyBatis-CTE-WITH절.md",
-    "02-study/database/mybatis/MyBatis-Window-Function.md",
-    "02-study/database/mybatis/MyBatis-결과매핑-ResultMap.md",
-    "02-study/database/mybatis/MyBatis-동적SQL-XML매퍼.md",
-    "04-interview/database/MyBatis-동적SQL-면접.md",
-    "04-interview/database/MyBatis-Window-Function-면접.md",
-    "04-interview/database/MyBatis-CTE-면접.md",
-    "templates/study-note.md.md",
-    "templates/daily-note.md",
-    "templates/interview-question.md",
-    "04-interview/database/JPA-N+1문제해결-면접.md",
     "04-interview/MyBatis",
     "02-study/MyBatis",
-    "02-study/frontend/react/react-ProtectedRoute_인증_보호.md",
-    "02-study/database/sql/sql-Mybatis-JPA비교.md",
     "04-interview/JPA",
     "02-study/JPA",
-    "04-interview/projects/side-proj",
-    "04-interview/projects/fitneeds",
-    "04-interview/projects/bizsync"
+    "04-interview/projects/side-proj"
   ]
 }

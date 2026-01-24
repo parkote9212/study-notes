@@ -1,5 +1,7 @@
 ---
-tags: study, {{topic}}
+tags:
+  - study
+  - {{topic}}
 created: {{date:YYYY-MM-DD}}
 ---
 
