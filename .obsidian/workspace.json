@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3f93bc410bba30b9",
+        "id": "015c944174e1aaa7",
         "type": "tabs",
         "children": [
           {
-            "id": "fe7e10c799ff356c",
+            "id": "73bc058707d0618b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "type": "markdown",
+              "state": {
+                "file": "00-inbox/AWS-ECR-CICD-가이드.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AWS-ECR-CICD-가이드"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:interview, {{topic}}",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -201,8 +205,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fe7e10c799ff356c",
+  "active": "73bc058707d0618b",
   "lastOpenFiles": [
+    "00-inbox/AWS-ECR-CICD-가이드.md",
+    "00-inbox/면접예상문제2.md",
+    "00-inbox/면접예상문제1.md",
+    "04-interview/devops/Docker-면접.md",
     "04-interview/projects/side-proj/side-proj-외부API-응답파싱-면접.md",
     "04-interview/projects/side-proj/side-proj-WebClient-비동기API-면접.md",
     "04-interview/backend/Java-동시성-면접.md",
@@ -210,8 +218,6 @@
     "04-interview/database/JPA-영속성컨텍스트-면접.md",
     "04-interview/database/MyBatis-동적SQL-면접.md",
     "fix_all_tags.py",
-    "00-inbox/면접예상문제1.md",
-    "00-inbox/면접예상문제2.md",
     "04-interview/backend/Java-기본-API-면접.md",
     "04-interview/backend/Java-함수형-면접.md",
     "04-interview/backend/Java-정적-팩토리-메서드-면접.md",
@@ -228,8 +234,6 @@
     "04-interview/projects/side-proj/side-proj-면접-배치-스케줄링.md",
     "04-interview/projects/fitneeds/fitneeds-RESTful-API설계-면접.md",
     "04-interview/projects/fitneeds/fitneeds-면접-REST-API설계.md",
-    "04-interview/projects/bizsync/bizsync-면접-React-Zustand.md",
-    "04-interview/projects/side-proj/side-proj-배치로깅모니터링-면접.md",
     "04-interview/projects/bizsync-split",
     "templates/interview-question.md.sb-77c59309-hV8SX1",
     "templates/study-note.md.md.sb-77c59309-nQ6uJ5",
