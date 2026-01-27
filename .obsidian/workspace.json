@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-inbox/AWS-ECR-CICD-가이드.md",
+                "file": "00-inbox/기술면접예상문제4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AWS-ECR-CICD-가이드"
+              "title": "기술면접예상문제4"
             }
           }
         ]
@@ -207,9 +207,13 @@
   },
   "active": "73bc058707d0618b",
   "lastOpenFiles": [
+    "00-inbox/기술면접예상문제3.md",
+    "00-inbox/기술면접예상문제2.md",
+    "00-inbox/기술면접예상문제1.md",
+    "00-inbox/기술면접예상문제6.md",
+    "00-inbox/기술면접예상문제5.md",
+    "00-inbox/기술면접예상문제4.md",
     "00-inbox/AWS-ECR-CICD-가이드.md",
-    "00-inbox/면접예상문제2.md",
-    "00-inbox/면접예상문제1.md",
     "04-interview/devops/Docker-면접.md",
     "04-interview/projects/side-proj/side-proj-외부API-응답파싱-면접.md",
     "04-interview/projects/side-proj/side-proj-WebClient-비동기API-면접.md",
@@ -230,10 +234,6 @@
     "04-interview/database/MyBatis-Window-Function-면접.md",
     "04-interview/database/MyBatis-CTE-면접.md",
     "04-interview/projects/fitneeds/fitneeds-JPA-MyBatis하이브리드-면접.md",
-    "04-interview/projects/bizsync/bizsync-면접-WebSocket-STOMP.md",
-    "04-interview/projects/side-proj/side-proj-면접-배치-스케줄링.md",
-    "04-interview/projects/fitneeds/fitneeds-RESTful-API설계-면접.md",
-    "04-interview/projects/fitneeds/fitneeds-면접-REST-API설계.md",
     "04-interview/projects/bizsync-split",
     "templates/interview-question.md.sb-77c59309-hV8SX1",
     "templates/study-note.md.md.sb-77c59309-nQ6uJ5",
