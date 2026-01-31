@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-study/database/mybatis/MyBatis-동적SQL.md",
+                "file": "04-interview/backend/Java-제어문-배열-String-면접.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MyBatis-동적SQL"
+              "title": "Java-제어문-배열-String-면접"
             }
           }
         ]
@@ -207,9 +207,20 @@
   },
   "active": "73bc058707d0618b",
   "lastOpenFiles": [
-    "04-interview/database/MyBatis-동적SQL-면접.md",
+    "04-interview/backend/Java-기본문법-면접.md",
+    "04-interview/backend/Java-기본-API-면접.md",
+    "04-interview/backend/Java-정적-팩토리-메서드-면접.md",
+    "04-interview/backend/Java-제네릭-면접.md",
+    "04-interview/backend/SpringBoot-환경설정-면접.md",
+    "02-study/backend/java/Java-기본문법-변수타입연산자.md",
+    "02-study/backend/java/Java-제어문-배열-String.md",
+    "00-inbox/cli-guide.md",
     "templates/study-note.md.md",
+    "04-interview/backend/Java-제어문-배열-String-면접.md",
+    "templates/interview-question.md",
     "templates/daily-note.md",
+    "02-study/database/mybatis/MyBatis-동적SQL.md",
+    "04-interview/database/MyBatis-동적SQL-면접.md",
     "02-study/database/redis/Redis-기본개념-인메모리DB.md",
     "04-interview/database/JPA-동시성_제어_면접.md",
     "02-study/backend/spring-boot/SpringBoot-환경별-설정-관리.md",
@@ -223,17 +234,6 @@
     "02-study/backend/java/Java-정적-팩토리-메서드.md",
     "02-study/backend/java/Java-Record-vs-POJO.md",
     "02-study/database/redis",
-    "00-inbox/AWS-ECR-CICD-가이드.md",
-    "04-interview/frontend/React-면접.md",
-    "00-inbox/기술면접예상문제1.md",
-    "00-inbox/기술면접예상문제5.md",
-    "00-inbox/기술면접예상문제6.md",
-    "02-study/backend/spring/SpringSecurity-JWT-구현가이드.md",
-    "04-interview/projects/bizsync/bizsync-Docker-무중단배포-면접.md",
-    "02-study/database/jpa/JPA-도메인모델-Setter금지패턴.md",
-    "02-study/database/jpa/JPA-엔티티설계-NoArgsConstructor.md",
-    "02-study/database/jpa/JPA-연관관계-매핑가이드.md",
-    "02-study/database/jpa/JPA-영속성컨텍스트-변경감지.md",
     "fix_all_tags.py",
     "04-interview/projects/bizsync-split",
     "templates/interview-question.md.sb-77c59309-hV8SX1",
