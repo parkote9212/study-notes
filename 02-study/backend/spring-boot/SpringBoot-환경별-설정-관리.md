@@ -1,5 +1,5 @@
 ---
-tags: study, Spring, Spring-Boot, Profile, DevOps
+tags:
 created: 2026-01-24
 ---
 
