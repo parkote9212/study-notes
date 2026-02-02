@@ -8,15 +8,19 @@
     ]
   ],
   "trigger_on_file_creation": true,
-  "auto_jump_to_cursor": false,
+  "auto_jump_to_cursor": true,
   "enable_system_commands": false,
   "shell_path": "",
   "user_scripts_folder": "",
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
+      "folder": "02-study",
+      "template": "templates/study-note.md.md"
+    },
+    {
+      "folder": "04-interview",
+      "template": "templates/interview-question.md"
     }
   ],
   "enable_file_templates": false,
