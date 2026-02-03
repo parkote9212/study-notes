@@ -11,14 +11,10 @@
             "id": "9bc44f72271263ca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-study/backend/java/Java-SOLID원칙.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Java-SOLID원칙"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
             }
           }
         ]
@@ -190,7 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 206.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,32 +203,34 @@
   },
   "active": "9bc44f72271263ca",
   "lastOpenFiles": [
-    "02-study/backend/java/Java-디자인패턴-Factory.md",
-    "02-study/backend/java/Java-디자인패턴-Singleton.md",
-    "02-study/backend/java/Java-디자인패턴-Strategy.md",
-    "02-study/backend/java/Java-열거형Enum.md",
-    "02-study/backend/java/Java-기본문법-변수타입연산자.md",
+    "04-interview/tech-interview-prep/기술면접예상문제10.md",
+    "04-interview/tech-interview-prep/기술면접예상문제11.md",
+    "04-interview/tech-interview-prep/기술면접예상문제12.md",
+    "04-interview/tech-interview-prep/기술면접예상문제13.md",
+    "04-interview/tech-interview-prep/기술면접예상문제14.md",
+    "04-interview/tech-interview-prep/기술면접예상문제15.md",
+    "04-interview/tech-interview-prep/기술면접예상문제9.md",
+    "04-interview/tech-interview-prep/기술면접예상문제8.md",
+    "04-interview/tech-interview-prep/기술면접예상문제7.md",
+    "04-interview/tech-interview-prep/기술면접예상문제6.md",
+    "04-interview/tech-interview-prep/기술면접예상문제5.md",
+    "04-interview/tech-interview-prep/기술면접예상문제4.md",
+    "04-interview/tech-interview-prep/기술면접예상문제3.md",
+    "04-interview/tech-interview-prep/기술면접예상문제2.md",
+    "04-interview/tech-interview-prep/기술면접예상문제1.md",
+    "templates/interview-question.md",
+    "templates/study-note.md.md",
+    "templates/daily-note.md",
     "01-daily/2026-02-03.md",
-    "02-study/backend/java/Java-디자인패턴-Builder.md",
-    "02-study/backend/java/Java-람다-Stream.md",
-    "02-study/backend/java/Java-문자열처리심화.md",
-    "02-study/backend/java/Java-상속-다형성-super.md",
-    "02-study/backend/java/Java-인터페이스-추상클래스.md",
-    "02-study/backend/java/Java-SOLID원칙.md",
-    "02-study/backend/java/Java-static.md",
-    "02-study/backend/java/Java-Wrapper클래스.md",
-    "02-study/backend/java/Java-날짜시간API-기본.md",
-    "02-study/backend/java/Java-제어문-배열-String.md",
-    "02-study/backend/java/Java-제네릭스-Generics.md",
-    "Java-디자인패턴-빌더.md",
-    "02-study/backend/java/Java-Record.md",
-    "02-study/backend/java/Java-Sealed-Classes.md",
-    "02-study/backend/java/Java-내부클래스.md",
-    "02-study/backend/java/Java-Object-getClass와리플렉션.md",
-    "02-study/backend/java/Java-Comparable-Comparator.md",
-    "02-study/backend/java/Java-Object-equals와hashCode.md",
-    "02-study/backend/java/Java-어노테이션.md",
-    "02-study/backend/java/Java-IO-기초.md",
+    "04-interview/projects/fitneeds/fitneeds-이용권상태관리-면접.md",
+    "02-study/backend/spring-boot/SpringBoot-환경별-설정-관리.md",
+    "02-study/tools/02_claude-code-guide-part2.md",
+    "02-study/tools/04_cursor-rules-skills-subagents-guide.md",
+    "04-interview/tech-interview-prep/무제.md",
+    "00-inbox/무제",
+    "01-daily/2026-01-20.md",
+    "04-interview/tech-interview-prep",
+    "01-daily/2026-02-02.md",
     "02-study/tools",
     "00-inbox/tools/util",
     "00-inbox/tools",
@@ -240,8 +238,6 @@
     "Users/gcpark/code-notes/02-study/backend",
     "Users/gcpark/code-notes/02-study",
     "Users/gcpark/code-notes",
-    "Users/gcpark",
-    "Users",
-    "code-notes/02-study/backend/java"
+    "Users/gcpark"
   ]
 }
