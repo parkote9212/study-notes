@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 422.5
+    "width": 230.5
   },
   "right": {
     "id": "54e28b8024650e93",
@@ -201,7 +201,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9bc44f72271263ca",
+  "active": "3ab7b91da01dc579",
   "lastOpenFiles": [
     "04-interview/tech-interview-prep/기술면접예상문제10.md",
     "04-interview/tech-interview-prep/기술면접예상문제11.md",
