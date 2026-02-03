@@ -478,10 +478,8 @@ class User implements Serializable {
 ```
 
 ## 관련 개념
-- [[Java-Stream-API]]
-- [[Java-람다표현식]]
-- [[Java-함수형프로그래밍]]
-- [[Java-예외처리]]
+- [[Java-람다-Stream]]
+- [[Java-예외처리-Exception]]
 
 ## 면접 질문
 1. Optional을 사용하는 이유와 장점은 무엇인가요?

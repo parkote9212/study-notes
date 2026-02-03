@@ -17,7 +17,7 @@ created: 2025-02-02
 
 ### equals() 메서드
 
-`equals()`는 두 객체가 논리적으로 동등한지 비교하는 메서드입니다. Object 클래스의 기본 구현은 `==` 연산자와 동일하게 참조 비교만 수행하므로, 대부분의 경우 오버라이딩이 필요합니다.
+`equals()`는 두 객체가 논리적으로 동등한지 비교하는 메서드입니다. Object 클래스의 기본 구현은 == 연산자와 동일하게 참조 비교만 수행하므로, 대부분의 경우 오버라이딩이 필요합니다.
 
 **equals() 규약 (Contract)**
 1. **반사성(Reflexive)**: `x.equals(x)`는 항상 true
@@ -78,7 +78,7 @@ Person p2 = new Person("홍길동", 30);
 set.add(p1);
 set.add(p2);
 
-System.out.println(set.size());  // 2 출력 (기대: 1)
+System.out.println(set.size());  // 2 출력 (기대값 1)
 System.out.println(p1.equals(p2));  // true
 ```
 
@@ -356,9 +356,7 @@ class Measurement {
 
 ## 관련 개념
 - [[Java-Object-toString]]
-- [[Java-컬렉션-HashMap]]
-- [[Java-컬렉션-HashSet]]
-- [[Java-불변객체]]
+- [[Java-컬렉션-프레임워크]]
 
 ## 면접 질문
 1. equals()와 hashCode()를 함께 오버라이딩해야 하는 이유는 무엇인가요?

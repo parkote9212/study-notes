@@ -292,9 +292,9 @@ class Person {
    ```
 
 ## 관련 개념
-- [[Java-제네릭스]]
-- [[Java-람다와-Stream-API]]
-- [[Java-Object-클래스-메서드]]
+- [[Java-제네릭스-Generics]]
+- [[Java-람다-Stream]]
+- [[Java-Object-equals와hashCode]]
 
 ## 면접 질문
 1. ArrayList와 LinkedList의 차이점과 각각 언제 사용하나요?

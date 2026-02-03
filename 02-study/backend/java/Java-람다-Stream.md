@@ -321,8 +321,8 @@ Optional<Student> top = students.stream()
    ```
 
 ## 관련 개념
-- [[Java-제네릭스]]
-- [[Java-Collection-Framework]]
+- [[Java-제네릭스-Generics]]
+- [[Java-컬렉션-프레임워크]]
 - [[Java-Optional]]
 
 ## 면접 질문

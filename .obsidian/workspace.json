@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "015c944174e1aaa7",
+        "id": "f545aed8228d2165",
         "type": "tabs",
         "children": [
           {
-            "id": "73bc058707d0618b",
+            "id": "9bc44f72271263ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-inbox/무제.md",
+                "file": "02-study/backend/java/Java-SOLID원칙.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "무제"
+              "title": "Java-SOLID원칙"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 401.5
+    "width": 422.5
   },
   "right": {
     "id": "54e28b8024650e93",
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-interview/database/MyBatis-통계쿼리-면접.md",
+                "file": "02-study/backend/java/Java-IO-기초.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "MyBatis-통계쿼리-면접 의 개요"
+              "title": "Java-IO-기초 의 개요"
             }
           },
           {
@@ -190,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,43 +205,43 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "73bc058707d0618b",
+  "active": "9bc44f72271263ca",
   "lastOpenFiles": [
-    "00-inbox/cli-guide.md",
-    "00-inbox/무제.md",
-    "01-daily/2026-02-02.md",
-    "02-study/backend/java/Java-static.md",
-    "02-study/backend/java/Java-final.md",
-    "02-study/backend/java/Java-Object-clone.md",
+    "02-study/backend/java/Java-디자인패턴-Factory.md",
+    "02-study/backend/java/Java-디자인패턴-Singleton.md",
+    "02-study/backend/java/Java-디자인패턴-Strategy.md",
     "02-study/backend/java/Java-열거형Enum.md",
-    "02-study/backend/java/Java-내부클래스.md",
-    "02-study/backend/java/Java-Optional.md",
-    "02-study/backend/java/Java-날짜시간API-기본.md",
-    "02-study/backend/java/Java-날짜시간API-심화.md",
-    "02-study/backend/java/Java-문자열처리심화.md",
-    "02-study/backend/java/Java-Record.md",
-    "02-study/backend/java/Java-람다-Stream.md",
     "02-study/backend/java/Java-기본문법-변수타입연산자.md",
-    "02-study/backend/java/Java-날짜시간API.md",
-    "02-study/backend/java/Java-예외처리-Exception.md",
-    "02-study/backend/java/Java-문자열처리.md",
-    "02-study/backend/java/Java-어노테이션.md",
+    "01-daily/2026-02-03.md",
+    "02-study/backend/java/Java-디자인패턴-Builder.md",
+    "02-study/backend/java/Java-람다-Stream.md",
+    "02-study/backend/java/Java-문자열처리심화.md",
     "02-study/backend/java/Java-상속-다형성-super.md",
     "02-study/backend/java/Java-인터페이스-추상클래스.md",
+    "02-study/backend/java/Java-SOLID원칙.md",
+    "02-study/backend/java/Java-static.md",
+    "02-study/backend/java/Java-Wrapper클래스.md",
+    "02-study/backend/java/Java-날짜시간API-기본.md",
     "02-study/backend/java/Java-제어문-배열-String.md",
-    "02-study/backend/java/Java-제네릭스.md",
-    "02-study/backend/java/Java-컬렉션-프레임워크.md",
-    "02-study/backend/java/Java-클래스-객체지향기초.md",
-    "02-study/backend/java/Java-Enum.md",
+    "02-study/backend/java/Java-제네릭스-Generics.md",
+    "Java-디자인패턴-빌더.md",
+    "02-study/backend/java/Java-Record.md",
+    "02-study/backend/java/Java-Sealed-Classes.md",
+    "02-study/backend/java/Java-내부클래스.md",
+    "02-study/backend/java/Java-Object-getClass와리플렉션.md",
+    "02-study/backend/java/Java-Comparable-Comparator.md",
+    "02-study/backend/java/Java-Object-equals와hashCode.md",
+    "02-study/backend/java/Java-어노테이션.md",
+    "02-study/backend/java/Java-IO-기초.md",
+    "02-study/tools",
+    "00-inbox/tools/util",
+    "00-inbox/tools",
     "Users/gcpark/code-notes/02-study/backend/java",
     "Users/gcpark/code-notes/02-study/backend",
     "Users/gcpark/code-notes/02-study",
     "Users/gcpark/code-notes",
     "Users/gcpark",
     "Users",
-    "code-notes/02-study/backend/java",
-    "code-notes/02-study/backend",
-    "code-notes/02-study",
-    "code-notes"
+    "code-notes/02-study/backend/java"
   ]
 }
