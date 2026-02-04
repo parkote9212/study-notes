@@ -70,5 +70,5 @@ private void validateDuplicateReservation(String userId, Schedule schedule) {
 - 검증 로직을 별도 Validator 클래스로 분리하면 어떤 장점이 있나요?
 
 ## 참고
-- [[비즈니스-검증-패턴]]
-- [[fitneeds-결제트랜잭션-면접]]
+- [[fitneeds-결제예약트랜잭션-면접]]
+- [[fitneeds-이용권상태관리-면접]]

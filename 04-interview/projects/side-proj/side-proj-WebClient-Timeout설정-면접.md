@@ -61,5 +61,5 @@ public class WebClientConfig {
 - Keep-Alive와 Connection Pool의 관계는?
 
 ## 참고
-- [[Reactor-Netty-커넥션관리]]
 - [[side-proj-배치스케줄링-면접]]
+- [[side-proj-WebClient-비동기API-면접]]

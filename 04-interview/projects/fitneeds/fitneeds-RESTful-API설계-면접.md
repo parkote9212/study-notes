@@ -69,5 +69,4 @@ public class AdminReservationController {
 - 상태 변경을 `/status` 엔드포인트로 분리한 이유는?
 
 ## 참고
-- [[RESTful-API-설계-가이드]]
 - [[fitneeds-Record-DTO-면접]]

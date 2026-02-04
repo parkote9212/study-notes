@@ -98,5 +98,5 @@ public class AptDataBatchScheduler {
 - 배치 실패율이 높아지면 어떻게 감지하나요?
 
 ## 참고
-- [[구조화된-로깅-패턴]]
-- [[배치-모니터링-전략]]
+- [[side-proj-배치스케줄링-면접]]
+- [[side-proj-배치청크처리-면접]]

@@ -68,5 +68,5 @@ public class UserPass {
 - 삭제된 이용권 복구 기능은 어떻게 구현했나요?
 
 ## 참고
-- [[엔티티-상태-관리-패턴]]
 - [[fitneeds-이용권변동이력-면접]]
+- [[fitneeds-JPA-MyBatis하이브리드-면접]]

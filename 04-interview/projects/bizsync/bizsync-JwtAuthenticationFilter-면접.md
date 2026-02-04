@@ -74,5 +74,5 @@ public class JwtAuthenticationFilter extends OncePerRequestFilter {
 - 토큰이 유효하지 않을 때 어떻게 처리하나요?
 
 ## 참고
-- [[Spring-Security-필터체인]]
 - [[bizsync-JWT-AccessRefreshToken-면접]]
+- [[bizsync-SpringSecurity-Stateless-면접]]

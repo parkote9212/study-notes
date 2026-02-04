@@ -11,10 +11,14 @@
             "id": "9bc44f72271263ca",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "type": "markdown",
+              "state": {
+                "file": "02-study/backend/java/Java-Pattern-Matching.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Java-Pattern-Matching"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.5
+    "width": 426.5
   },
   "right": {
     "id": "54e28b8024650e93",
@@ -201,36 +205,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3ab7b91da01dc579",
+  "active": "f7b791594149753f",
   "lastOpenFiles": [
-    "04-interview/tech-interview-prep/기술면접예상문제10.md",
-    "04-interview/tech-interview-prep/기술면접예상문제11.md",
-    "04-interview/tech-interview-prep/기술면접예상문제12.md",
-    "04-interview/tech-interview-prep/기술면접예상문제13.md",
-    "04-interview/tech-interview-prep/기술면접예상문제14.md",
-    "04-interview/tech-interview-prep/기술면접예상문제15.md",
-    "04-interview/tech-interview-prep/기술면접예상문제9.md",
-    "04-interview/tech-interview-prep/기술면접예상문제8.md",
-    "04-interview/tech-interview-prep/기술면접예상문제7.md",
-    "04-interview/tech-interview-prep/기술면접예상문제6.md",
-    "04-interview/tech-interview-prep/기술면접예상문제5.md",
-    "04-interview/tech-interview-prep/기술면접예상문제4.md",
-    "04-interview/tech-interview-prep/기술면접예상문제3.md",
-    "04-interview/tech-interview-prep/기술면접예상문제2.md",
-    "04-interview/tech-interview-prep/기술면접예상문제1.md",
-    "templates/interview-question.md",
-    "templates/study-note.md.md",
-    "templates/daily-note.md",
-    "01-daily/2026-02-03.md",
-    "04-interview/projects/fitneeds/fitneeds-이용권상태관리-면접.md",
-    "02-study/backend/spring-boot/SpringBoot-환경별-설정-관리.md",
+    "02-study/backend/java/Java-Sealed-Classes.md",
+    "02-study/backend/java/Java-static.md",
+    "02-study/backend/java/Java-Wrapper클래스.md",
+    "02-study/backend/java/Java-Pattern-Matching.md",
+    "02-study/backend/architecture/SOLID원칙.md",
+    "02-study/backend/architecture/design-patterns/디자인패턴-Strategy.md",
+    "02-study/backend/architecture/design-patterns/디자인패턴-Singleton.md",
+    "02-study/backend/architecture/design-patterns/디자인패턴-Factory.md",
+    "02-study/backend/architecture/design-patterns/디자인패턴-Builder.md",
+    "02-study/backend/testing/TDD-실전-Spring-Boot-테스트.md",
+    "02-study/backend/testing/TDD-기초-Red-Green-Refactor.md",
+    "02-study/backend/testing/TDD-고급-2026-최신-트렌드.md",
+    "02-study/tools/01_claude-code-guide-part1.md",
     "02-study/tools/02_claude-code-guide-part2.md",
     "02-study/tools/04_cursor-rules-skills-subagents-guide.md",
-    "04-interview/tech-interview-prep/무제.md",
+    "02-study/tools/Claude-Desktop-활용-가이드.md",
+    "02-study/tools/Claude-Desktop-MCP-설정가이드.md",
+    "02-study/tools/Cursor -기본단축키.md",
+    "02-study/tools/CLI-사용가이드.md",
+    "02-study/tools/03_claude-projects-skills-guide.md",
+    "04-interview/projects/side-proj/side-proj-배치로깅모니터링-면접.md",
+    "04-interview/projects/fitneeds/fitneeds-예약검증로직-면접.md",
+    "04-interview/projects/fitneeds/fitneeds-결제예약트랜잭션-면접.md",
+    "05-projects/Fitneeds.md",
+    "04-interview/projects/fitneeds/fitneeds-면접-결제-트랜잭션.md",
+    "04-interview/projects/fitneeds/fitneeds-면접-JPA-MyBatis-엔티티.md",
     "00-inbox/무제",
-    "01-daily/2026-01-20.md",
     "04-interview/tech-interview-prep",
-    "01-daily/2026-02-02.md",
     "02-study/tools",
     "00-inbox/tools/util",
     "00-inbox/tools",

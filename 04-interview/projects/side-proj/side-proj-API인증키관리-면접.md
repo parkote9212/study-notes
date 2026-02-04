@@ -79,5 +79,4 @@ spring:
 - 키가 유출되었을 때 대응 방안은?
 
 ## 참고
-- [[환경변수-보안-관리]]
-- [[AWS-SecretsManager-통합]]
+- [[side-proj-WebClient-비동기API-면접]]

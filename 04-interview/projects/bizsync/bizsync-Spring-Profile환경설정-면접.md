@@ -64,5 +64,4 @@ JWT_SECRET=256비트_이상의_시크릿_키
 - AWS Secrets Manager를 사용한다면 어떻게 구성하나요?
 
 ## 참고
-- [[Spring-Profile-완벽가이드]]
-- [[환경변수-보안-관리]]
+- [[bizsync-Docker-환경변수처리-면접]]

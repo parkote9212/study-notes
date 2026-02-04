@@ -56,5 +56,5 @@ public class AdminReservationService {
 - N+1 문제는 어떻게 해결했나요?
 
 ## 참고
-- [[JPA-MyBatis-하이브리드-패턴]]
 - [[fitneeds-이용권상태관리-면접]]
+- [[fitneeds-예약검증로직-면접]]

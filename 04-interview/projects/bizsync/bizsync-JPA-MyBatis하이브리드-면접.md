@@ -74,5 +74,5 @@ public interface ProjectMapper {
 - 트랜잭션 내에서 JPA와 MyBatis를 함께 사용할 때 주의사항은?
 
 ## 참고
-- [[JPA-vs-MyBatis-비교]]
-- [[하이브리드-ORM-전략]]
+- [[bizsync-MyBatis-중첩ResultMap-면접]]
+- [[bizsync-JPA-FetchJoin-N+1해결-면접]]

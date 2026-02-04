@@ -64,5 +64,5 @@ BizSync의 ProjectMapper.selectProjectBoard()는 프로젝트, 칸반 컬럼, �
 - 카테시안 곱 문제를 해결하기 위한 전략은?
 
 ## 참고
-- [[MyBatis-ResultMap-심화]]
-- [[N+1-문제-해결전략]]
+- [[bizsync-JPA-MyBatis하이브리드-면접]]
+- [[bizsync-MyBatis-동적쿼리-면접]]

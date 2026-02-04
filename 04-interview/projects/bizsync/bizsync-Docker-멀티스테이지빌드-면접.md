@@ -50,5 +50,5 @@ ENTRYPOINT ["java", "-jar", "-Dspring.profiles.active=prod", "app.jar"]
 - `--no-daemon` 옵션을 사용하는 이유는?
 
 ## 참고
-- [[Docker-멀티스테이지-빌드]]
 - [[bizsync-Docker-환경변수처리-면접]]
+- [[bizsync-DockerCompose-서비스구성-면접]]

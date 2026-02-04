@@ -1,7 +1,6 @@
 ---
 tags:
   - study
-  - java
   - solid
   - oop
   - design-principles
@@ -548,8 +547,8 @@ class Dog implements Pet {
 ```
 
 ## 관련 개념
-- [[Java-디자인패턴-Strategy]]
-- [[Java-디자인패턴-Factory]]
+- [[디자인패턴-Strategy]]
+- [[디자인패턴-Factory]]
 - [[Spring-의존성주입]]
 
 ## 면접 질문

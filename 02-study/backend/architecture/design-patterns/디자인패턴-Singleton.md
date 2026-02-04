@@ -1,7 +1,6 @@
 ---
 tags:
   - study
-  - java
   - design-pattern
   - singleton
   - creational-pattern
@@ -377,7 +376,7 @@ public class UserService {
 ## 관련 개념
 - [[Java-열거형Enum]]
 - [[Java-멀티스레드]]
-- [[Java-디자인패턴-Factory]]
+- [[디자인패턴-Factory]]
 
 ## 면접 질문
 1. Singleton 패턴의 장단점은?

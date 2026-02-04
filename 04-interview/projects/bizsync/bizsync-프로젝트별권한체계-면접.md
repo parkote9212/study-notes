@@ -70,5 +70,5 @@ public void deleteProject(Long projectId) {
 - 권한 체크 실패 시 어떤 예외가 발생하나요?
 
 ## 참고
-- [[Spring-Security-권한체계]]
-- [[커스텀-어노테이션-AOP]]
+- [[bizsync-SpringSecurity-Stateless-면접]]
+- [[bizsync-JWT-AccessRefreshToken-면접]]

@@ -1,7 +1,6 @@
 ---
 tags:
   - study
-  - java
   - design-pattern
   - strategy
   - behavioral-pattern
@@ -484,8 +483,8 @@ class GoodStrategy implements PaymentStrategy {
 ```
 
 ## 관련 개념
-- [[Java-SOLID원칙]]
-- [[Java-디자인패턴-Factory]]
+- [[SOLID원칙]]
+- [[디자인패턴-Factory]]
 - [[Java-함수형인터페이스]]
 
 ## 면접 질문

@@ -75,5 +75,5 @@ export const useBoardSocket = (
 - Heartbeat 메커니즘은 무엇이며, 어떻게 설정하나요?
 
 ## 참고
-- [[WebSocket-연결관리]]
-- [[Exponential-Backoff-알고리즘]]
+- [[bizsync-WebSocket-STOMP선택-면접]]
+- [[bizsync-WebSocket-배포주의사항-면접]]

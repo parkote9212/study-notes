@@ -53,5 +53,4 @@ public List<ProjectResponse> getWorkspaceProjects(Long workspaceId) {
 - 컬렉션 Fetch Join 시 DISTINCT를 사용하는 이유는?
 
 ## 참고
-- [[JPA-N+1-문제-완벽가이드]]
-- [[Fetch-Join-vs-EntityGraph]]
+- [[bizsync-JPA-MyBatis하이브리드-면접]]

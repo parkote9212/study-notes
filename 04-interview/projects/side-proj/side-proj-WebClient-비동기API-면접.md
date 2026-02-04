@@ -68,5 +68,5 @@ public class AptApiService {
 - Mono와 Flux의 차이는?
 
 ## 참고
-- [[WebClient-완벽-가이드]]
-- [[Reactive-Programming-기초]]
+- [[side-proj-WebClient-에러처리-면접]]
+- [[side-proj-WebClient-Timeout설정-면접]]

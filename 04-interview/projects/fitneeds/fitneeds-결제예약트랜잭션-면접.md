@@ -72,5 +72,5 @@ public class PaymentService {
 - `@Transactional`의 기본 전파 속성(propagation)은?
 
 ## 참고
-- [[Spring-트랜잭션-전파]]
-- [[fitneeds-중복예약방지-면접]]
+- [[fitneeds-예약검증로직-면접]]
+- [[fitneeds-이용권상태관리-면접]]

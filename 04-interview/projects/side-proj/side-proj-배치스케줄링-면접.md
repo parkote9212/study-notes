@@ -79,5 +79,5 @@ public class AptDataBatchScheduler {
 - Quartz Scheduler와의 차이는?
 
 ## 참고
-- [[Spring-Scheduling-완벽가이드]]
 - [[side-proj-배치중복실행방지-면접]]
+- [[side-proj-배치로깅모니터링-면접]]

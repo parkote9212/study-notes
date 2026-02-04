@@ -65,5 +65,5 @@ networks:
 - 컨테이너 간 통신 시 localhost 대신 무엇을 사용하나요?
 
 ## 참고
-- [[Docker-Compose-헬스체크]]
-- [[bizsync-Docker-환경별설정-면접]]
+- [[bizsync-Docker-멀티스테이지빌드-면접]]
+- [[bizsync-Docker-환경변수처리-면접]]

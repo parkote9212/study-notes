@@ -52,5 +52,5 @@ public SecurityFilterChain filterChain(HttpSecurity http) throws Exception {
 - 로그아웃 기능을 구현할 때 어떤 전략을 사용해야 하나요?
 
 ## 참고
-- [[Spring-Security-Session-관리]]
-- [[RESTful-API-설계-원칙]]
+- [[bizsync-JWT-AccessRefreshToken-면접]]
+- [[bizsync-JwtAuthenticationFilter-면접]]

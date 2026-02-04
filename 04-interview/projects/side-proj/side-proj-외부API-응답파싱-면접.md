@@ -85,5 +85,5 @@ public WebClient aptWebClient() {
 - 네임스페이스가 있는 XML은 어떻게 처리하나요?
 
 ## 참고
-- [[Jackson-XML-매핑]]
 - [[side-proj-API인증키관리-면접]]
+- [[side-proj-WebClient-비동기API-면접]]

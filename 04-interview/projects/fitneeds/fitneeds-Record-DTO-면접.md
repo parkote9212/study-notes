@@ -75,5 +75,4 @@ public record ReservationResponse(
 - Record의 한계점은?
 
 ## 참고
-- [[Java-Record-완벽-가이드]]
-- [[fitneeds-페이징처리-면접]]
+- [[fitneeds-RESTful-API설계-면접]]

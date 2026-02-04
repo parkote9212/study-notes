@@ -51,5 +51,5 @@ location /ws {
 - 연결이 끊어졌을 때 재연결 로직은 어디에 구현하나요?
 
 ## 참고
-- [[Nginx-WebSocket-설정]]
 - [[bizsync-WebSocket-STOMP선택-면접]]
+- [[bizsync-WebSocket-재연결전략-면접]]

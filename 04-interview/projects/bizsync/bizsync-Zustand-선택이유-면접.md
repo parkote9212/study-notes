@@ -46,5 +46,4 @@ export const useKanbanStore = create<KanbanStore>((set) => ({
 - `persist` 미들웨어를 사용하지 않은 이유는?
 
 ## 참고
-- [[React-상태관리-비교]]
-- [[Zustand-공식문서]]
+- 없음

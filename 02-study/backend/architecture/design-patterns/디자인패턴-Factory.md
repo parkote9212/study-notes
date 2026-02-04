@@ -1,7 +1,6 @@
 ---
 tags:
   - study
-  - java
   - design-pattern
   - factory
   - creational-pattern
@@ -514,9 +513,9 @@ String text = "Hello";
 ```
 
 ## 관련 개념
-- [[Java-SOLID원칙]]
-- [[Java-디자인패턴-Singleton]]
-- [[Java-디자인패턴-Builder]]
+- [[SOLID원칙]]
+- [[디자인패턴-Singleton]]
+- [[디자인패턴-Builder]]
 
 ## 면접 질문
 1. Factory Method와 Abstract Factory의 차이는?

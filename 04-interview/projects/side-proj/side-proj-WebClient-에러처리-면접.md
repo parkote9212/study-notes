@@ -61,5 +61,5 @@ public Mono<AptTradeResponse> fetchAptTradeData(String lawd, String dealYmd) {
 - Circuit Breaker 패턴을 적용한다면?
 
 ## 참고
-- [[WebClient-에러처리-패턴]]
-- [[Resilience4j-CircuitBreaker]]
+- [[side-proj-WebClient-비동기API-면접]]
+- [[side-proj-배치중복실행방지-면접]]

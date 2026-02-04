@@ -1,7 +1,6 @@
 ---
 tags:
   - study
-  - java
   - design-pattern
   - builder
   - creational-pattern
@@ -528,7 +527,7 @@ class User {
 ```
 
 ## 관련 개념
-- [[Java-디자인패턴-Factory]]
+- [[디자인패턴-Factory]]
 - [[Java-불변객체]]
 - [[Lombok-Builder]]
 

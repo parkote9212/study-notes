@@ -62,5 +62,5 @@ public String createRefreshToken(Long userId) {
 - RTR (Refresh Token Rotation) 방식은 무엇인가요?
 
 ## 참고
-- [[JWT-토큰-보안-베스트프랙티스]]
 - [[bizsync-SpringSecurity-Stateless-면접]]
+- [[bizsync-JwtAuthenticationFilter-면접]]

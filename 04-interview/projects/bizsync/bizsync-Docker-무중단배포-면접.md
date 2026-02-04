@@ -48,5 +48,5 @@ upstream backend {
 - 배포 실패 시 롤백은 어떻게 하나요?
 
 ## 참고
-- [[무중단-배포-전략]]
-- [[AWS-ECS-배포]]
+- [[bizsync-DockerCompose-서비스구성-면접]]
+- [[bizsync-Docker-멀티스테이지빌드-면접]]

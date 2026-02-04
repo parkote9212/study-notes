@@ -73,5 +73,5 @@ public class AdminPassService {
 - 이벤트 소싱 패턴과의 차이점은?
 
 ## 참고
-- [[이벤트-소싱-vs-이력-테이블]]
+- [[fitneeds-이용권상태관리-면접]]
 - [[fitneeds-예약검증로직-면접]]

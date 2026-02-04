@@ -81,5 +81,5 @@ spring:
 - Spring Batch의 Chunk-oriented Processing과의 차이는?
 
 ## 참고
-- [[JPA-배치-INSERT-최적화]]
 - [[side-proj-외부API-응답파싱-면접]]
+- [[side-proj-배치로깅모니터링-면접]]

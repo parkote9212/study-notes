@@ -65,5 +65,5 @@ public void updateProject(Long projectId, ProjectUpdateRequestDTO dto) {
 - Dirty Checking과 merge()의 차이는?
 
 ## 참고
-- [[JPA-영속성컨텍스트]]
 - [[bizsync-JPA-MyBatis하이브리드-면접]]
+- [[bizsync-Entity-Setter미사용-면접]]

@@ -74,5 +74,4 @@ client.subscribe("/sub/chat/room/123", (message) => {
 - convertAndSend()와 convertAndSendToUser()의 차이는?
 
 ## 참고
-- [[STOMP-메시지-흐름]]
-- [[Spring-WebSocket-Annotation]]
+- [[bizsync-WebSocket-STOMP선택-면접]]

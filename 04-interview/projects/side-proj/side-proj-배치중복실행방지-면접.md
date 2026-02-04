@@ -74,5 +74,5 @@ public void runDailyBatch() {
 - Redis를 사용한 분산 락 구현 방법은?
 
 ## 참고
-- [[Java-Atomic-클래스]]
-- [[분산락-구현-전략]]
+- [[side-proj-배치스케줄링-면접]]
+- [[side-proj-배치청크처리-면접]]

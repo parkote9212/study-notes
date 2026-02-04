@@ -59,5 +59,4 @@ public class Project {
 - 업데이트 메서드에서 null 체크하는 이유는?
 
 ## 참고
-- [[JPA-엔티티-설계-가이드]]
-- [[도메인주도설계-DDD]]
+- [[bizsync-JPA-DirtyChecking-면접]]

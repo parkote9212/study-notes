@@ -71,5 +71,4 @@ public record ProjectSearchRequest(
 - JPA의 Criteria API와 비교하면?
 
 ## 참고
-- [[MyBatis-동적SQL-완벽가이드]]
 - [[bizsync-MyBatis-중첩ResultMap-면접]]

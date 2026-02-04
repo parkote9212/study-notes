@@ -51,5 +51,5 @@ public class WebSocketConfig implements WebSocketMessageBrokerConfigurer {
 - STOMP 대신 Socket.IO를 사용할 수도 있지 않나요?
 
 ## 참고
-- [[WebSocket-STOMP-개념]]
 - [[bizsync-WebSocket-재연결전략-면접]]
+- [[bizsync-MessageMapping-SimpMessaging-면접]]
