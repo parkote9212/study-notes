@@ -446,7 +446,7 @@ public String test(Object obj) {
 ## 관련 개념
 - [[Java-Record]]
 - [[Java-Sealed-Classes]]
-- [[Java-switch문]]
+- [[Java-제어문-배열-String]]
 
 ## 면접 질문
 1. Pattern Matching for instanceof의 장점은?

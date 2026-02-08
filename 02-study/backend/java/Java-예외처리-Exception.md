@@ -537,9 +537,8 @@ public void saveUser(User user) {
 ```
 
 ## 관련 개념
-
-- [[Java-기본-API-완벽-가이드]] - Optional로 예외 대체하기
-- [[Spring-예외처리-GlobalExceptionHandler]] - Spring 전역 예외 처리
+- [[Java-Optional]]
+- [[Java-예외처리-심화]]
 
 ## 학습 로드맵 (TODO)
 

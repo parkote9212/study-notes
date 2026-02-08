@@ -526,9 +526,8 @@ public Duration getWorkingHours(LocalDateTime start, LocalDateTime end) {
 
 ## 관련 개념
 - [[Java-날짜시간API-기본]]
-- [[Java-Stream-API]]
-- [[Java-불변객체]]
-- [[Java-함수형프로그래밍]]
+- [[Java-람다-Stream]]
+- [[Java-불변객체-Immutable]]
 
 ## 면접 질문
 1. ZonedDateTime과 LocalDateTime의 차이점은?

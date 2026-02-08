@@ -393,10 +393,9 @@ class Counter implements Cloneable {
 ```
 
 ## 관련 개념
-- [[Java-Object-equals와hashCode]]
-- [[Java-불변객체]]
-- [[Java-디자인패턴-프로토타입]]
-- [[Java-직렬화]]
+- [[Java-Object-equals-hashCode]]
+- [[Java-불변객체-Immutable]]
+- [[Java-파일입출력]]
 
 ## 면접 질문
 1. 얕은 복사와 깊은 복사의 차이점은 무엇인가요?

@@ -510,9 +510,8 @@ class Example {
 
 ## 관련 개념
 - [[Java-static]]
-- [[Java-불변객체]]
-- [[Java-상속과다형성]]
-- [[Java-디자인패턴-빌더]]
+- [[Java-불변객체-Immutable]]
+- [[Java-상속-다형성-super]]
 
 ## 면접 질문
 1. final 변수, final 메서드, final 클래스의 차이점은?

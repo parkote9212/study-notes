@@ -422,8 +422,8 @@ package com.example.other;
 ## 관련 개념
 - [[Java-Record]]
 - [[Java-Pattern-Matching]]
-- [[Java-열거형Enum]]
-- [[Java-상속과다형성]]
+- [[Java-열거형-Enum]]
+- [[Java-상속-다형성-super]]
 
 ## 면접 질문
 1. Sealed Classes를 사용하는 이유는 무엇인가요?

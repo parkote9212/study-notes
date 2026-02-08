@@ -30,4 +30,13 @@ created: 2025-02-04
 -[[bizsync-JwtAuthenticationFilter-면접]]
 -[[bizsync-SpringSecurity-Stateless-면접]]
 -[[bizsync-MessageMapping-SimpMessaging-면접]]
+-[[bizsync-SpringBatch-VirtualThread-면접]]
+-[[bizsync-AOP-PerformanceLogging-면접]]
+-[[bizsync-ApachePOI-Excel처리-면접]]
+-[[bizsync-React-DragAndDrop-면접]]
+-[[bizsync-Zustand-Persist-면접]]
+-[[bizsync-Vite-빌드도구-면접]]
+-[[bizsync-MaterialUI-선택이유-면접]]
+-[[bizsync-TypeScript-도입이유-면접]]
+
 ## 🔗 Related Concepts

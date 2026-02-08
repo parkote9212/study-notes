@@ -599,7 +599,7 @@ if (method.isAnnotationPresent(MyAnnotation.class)) {
 ```
 
 ## 관련 개념
-- [[Java-Object-getClass와리플렉션]]
+- [[Java-Object-getClass-리플렉션]]
 
 ## 면접 질문
 1. @Override 어노테이션의 역할은?

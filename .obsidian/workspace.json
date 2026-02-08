@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f545aed8228d2165",
+        "id": "2403e20d314e600f",
         "type": "tabs",
         "children": [
           {
-            "id": "9bc44f72271263ca",
+            "id": "504d465da76e2ec5",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "04-interview/backend/JPA N+1 문제와 해결방법.md",
-                "bFile": "04-interview/backend/JPA N+1 문제와 해결방법.md",
+                "aFile": "02-study/backend/tree.txt",
+                "bFile": "02-study/backend/tree.txt",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: JPA N+1 문제와 해결방법  (Working Tree)"
+              "title": "Diff: tree.txt  (Working Tree)"
             }
           }
         ]
@@ -205,43 +205,43 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9bc44f72271263ca",
+  "active": "504d465da76e2ec5",
   "lastOpenFiles": [
-    "02-study/backend/architecture/SOLID원칙.md",
-    "04-interview/backend/JPA N+1 문제와 해결방법.md",
-    "templates/interview-question.md",
-    "templates/study-note.md.md",
-    "templates/daily-note.md",
+    "02-study/backend/spring/data/Spring-Data-JPA-연동.md",
+    "02-study/backend/spring/advanced/배치처리-기초.md",
+    "02-study/backend/spring/advanced/스케줄링.md",
+    "02-study/backend/spring/advanced/캐싱-전략.md",
+    "02-study/backend/spring/advanced/이벤트-기반-아키텍처.md",
+    "02-study/backend/spring/advanced/비동기처리-Async.md",
+    "02-study/backend/spring/data/트랜잭션-전파.md",
+    "02-study/backend/spring/data/트랜잭션-관리.md",
+    "02-study/backend/spring/data/트랜잭션-격리수준.md",
     "02-study/backend/java/Java-Pattern-Matching.md",
-    "02-study/backend/java/Java-Sealed-Classes.md",
-    "02-study/backend/java/Java-static.md",
-    "02-study/backend/java/Java-Wrapper클래스.md",
-    "02-study/backend/architecture/design-patterns/디자인패턴-Strategy.md",
-    "02-study/backend/architecture/design-patterns/디자인패턴-Singleton.md",
-    "02-study/backend/architecture/design-patterns/디자인패턴-Factory.md",
-    "02-study/backend/architecture/design-patterns/디자인패턴-Builder.md",
-    "02-study/backend/testing/TDD-실전-Spring-Boot-테스트.md",
-    "02-study/backend/testing/TDD-기초-Red-Green-Refactor.md",
-    "02-study/backend/testing/TDD-고급-2026-최신-트렌드.md",
-    "02-study/tools/01_claude-code-guide-part1.md",
-    "02-study/tools/02_claude-code-guide-part2.md",
-    "02-study/tools/04_cursor-rules-skills-subagents-guide.md",
-    "02-study/tools/Claude-Desktop-활용-가이드.md",
-    "02-study/tools/Claude-Desktop-MCP-설정가이드.md",
-    "02-study/tools/Cursor -기본단축키.md",
-    "02-study/tools/CLI-사용가이드.md",
-    "02-study/tools/03_claude-projects-skills-guide.md",
-    "04-interview/projects/side-proj/side-proj-배치로깅모니터링-면접.md",
-    "04-interview/projects/fitneeds/fitneeds-예약검증로직-면접.md",
+    "02-study/backend/spring/web/검증과-데이터바인딩.md",
+    "02-study/backend/spring/web/예외처리-전략.md",
+    "02-study/backend/spring/web/필터와-인터셉터.md",
+    "02-study/backend/spring/web/DispatcherServlet-동작흐름.md",
+    "02-study/backend/java/Java-불변객체-Immutable.md",
+    "02-study/backend/java/Java-컬렉션-프레임워크.md",
+    "02-study/backend/spring/core/컴포넌트-스캔.md",
+    "02-study/backend/spring/core/AOP-개념과-활용.md",
+    "02-study/backend/spring/core/빈-생명주기와-스코프.md",
+    "02-study/backend/spring/core/IoC-DI-컨테이너.md",
+    "02-study/backend/spring/advanced",
+    "02-study/backend/spring/data",
+    "02-study/backend/spring/web",
+    "02-study/backend/spring/core",
+    "02-study/backend/tree.txt",
+    "02-study/backend/architecture/tree.txt",
+    "02-study/backend/java/Java-함수형인터페이스.md",
+    "02-study/backend/java/Java-인터페이스-추상클래스.md",
+    "02-study/backend/java/Java-정규표현식-Regex.md",
+    "02-study/backend/java/Java-예외처리-Exception.md",
+    "02-study/backend/java/Java-예외처리-심화.md",
+    "02-study/backend/java/Java-열거형-Enum.md",
+    "02-study/backend/java/무제",
     "00-inbox/무제",
     "04-interview/tech-interview-prep",
-    "02-study/tools",
-    "00-inbox/tools/util",
-    "00-inbox/tools",
-    "Users/gcpark/code-notes/02-study/backend/java",
-    "Users/gcpark/code-notes/02-study/backend",
-    "Users/gcpark/code-notes/02-study",
-    "Users/gcpark/code-notes",
-    "Users/gcpark"
+    "02-study/tools"
   ]
 }

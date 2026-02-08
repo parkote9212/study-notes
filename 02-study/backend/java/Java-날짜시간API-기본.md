@@ -464,8 +464,8 @@ boolean result2 = date1.isEqual(date2);  // true
 ## 관련 개념
 - [[Java-날짜시간API-심화]]
 - [[Java-Optional]]
-- [[Java-불변객체]]
-- [[Java-Stream-API]]
+- [[Java-불변객체-Immutable]]
+- [[Java-람다-Stream]]
 
 ## 면접 질문
 1. LocalDate, LocalTime, LocalDateTime의 차이점은?

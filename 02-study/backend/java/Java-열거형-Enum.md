@@ -647,8 +647,7 @@ enum OrderType {
 ## 관련 개념
 - [[Java-static]]
 - [[Java-final]]
-- [[Java-싱글톤패턴]]
-- [[Java-디자인패턴-전략패턴]]
+- [[Java-Sealed-Classes]]
 
 ## 면접 질문
 1. Enum을 사용하는 이유와 장점은 무엇인가요?

@@ -1,5 +1,9 @@
 ---
-tags: study, TDD, Testing, Java
+tags:
+  - study
+  - TDD
+  - Testing
+  - java
 created: 2026-01-24
 ---
 

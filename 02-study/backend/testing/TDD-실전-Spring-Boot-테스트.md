@@ -1,5 +1,9 @@
 ---
-tags: study, TDD, Testing, Spring-Boot
+tags:
+  - study
+  - TDD
+  - Testing
+  - spring-boot
 created: 2026-01-24
 ---
 

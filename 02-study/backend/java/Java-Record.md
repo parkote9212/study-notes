@@ -493,9 +493,8 @@ record Person(String name, int age) {
 ```
 
 ## 관련 개념
-- [[Java-불변객체]]
+- [[Java-불변객체-Immutable]]
 - [[Java-final]]
-- [[Java-디자인패턴-빌더]]
 - [[Java-Pattern-Matching]]
 
 ## 면접 질문

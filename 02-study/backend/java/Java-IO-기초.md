@@ -421,8 +421,7 @@ Path path = Path.of("dir", "file.txt");  // OS 독립적
 
 ## 관련 개념
 - [[Java-예외처리-Exception]]
-- [[Java-NIO]]
-- [[Java-Serialization]]
+- [[Java-파일입출력]]
 
 ## 면접 질문
 1. Byte Stream과 Character Stream의 차이는?

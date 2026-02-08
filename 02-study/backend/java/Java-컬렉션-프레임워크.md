@@ -294,7 +294,7 @@ class Person {
 ## 관련 개념
 - [[Java-제네릭스-Generics]]
 - [[Java-람다-Stream]]
-- [[Java-Object-equals와hashCode]]
+- [[Java-Object-equals-hashCode]]
 
 ## 면접 질문
 1. ArrayList와 LinkedList의 차이점과 각각 언제 사용하나요?

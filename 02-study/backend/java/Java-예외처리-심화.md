@@ -580,8 +580,7 @@ try (R1 r1 = new R1()) {
 
 ## 관련 개념
 - [[Java-예외처리-Exception]]
-- [[Java-CompletableFuture]]
-- [[Java-멀티스레드]]
+- [[Java-람다-Stream]]
 
 ## 면접 질문
 1. ExecutorService에서 예외가 사라지는 이유는?

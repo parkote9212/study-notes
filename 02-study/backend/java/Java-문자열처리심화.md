@@ -590,10 +590,9 @@ public boolean isValidPassword(String password) {
 ```
 
 ## 관련 개념
-- [[Java-String-불변성]]
-- [[Java-정규표현식-고급]]
-- [[Java-Stream-API]]
-- [[Java-성능최적화]]
+- [[Java-불변객체-Immutable]]
+- [[Java-정규표현식-Regex]]
+- [[Java-람다-Stream]]
 
 ## 면접 질문
 1. StringBuilder와 StringBuffer의 차이점은?

@@ -402,7 +402,7 @@ Comparator<Student> comparator =
 ```
 
 ## 관련 개념
-- [[Java-Wrapper클래스]]
+- [[Java-Wrapper-클래스]]
 - [[Java-컬렉션-프레임워크]]
 - [[Java-람다-Stream]]
 
