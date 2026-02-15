@@ -4,24 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "2403e20d314e600f",
+        "id": "45cc64f769f292f3",
         "type": "tabs",
         "children": [
           {
-            "id": "504d465da76e2ec5",
+            "id": "0903d3686cef38f1",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
+          },
+          {
+            "id": "b980b581d9a94011",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
               "state": {
-                "aFile": "02-study/backend/tree.txt",
-                "bFile": "02-study/backend/tree.txt",
-                "aRef": ""
+                "file": "02-study/infrastructure/Redis-기본개념.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: tree.txt  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Redis-기본개념"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 426.5
+    "width": 457.5
   },
   "right": {
     "id": "54e28b8024650e93",
@@ -205,43 +216,43 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "504d465da76e2ec5",
+  "active": "b980b581d9a94011",
   "lastOpenFiles": [
+    "02-study/infrastructure/Redis-데이터타입과명령어.md",
+    "02-study/infrastructure/Redis-캐싱전략.md",
+    "02-study/infrastructure/Redis-PubSub과트랜잭션.md",
+    "02-study/infrastructure/Redis-Spring통합.md",
+    "02-study/infrastructure/Kafka-아키텍처.md",
+    "02-study/infrastructure/Kafka-성능과운영.md",
+    "02-study/infrastructure/Kafka-기본개념.md",
+    "02-study/backend/architecture/SOLID원칙.md",
+    "02-study/infrastructure/Redis-기본개념.md",
+    "02-study/infrastructure/Kafka-Spring통합.md",
+    "02-study/infrastructure/Kafka-Producer-Consumer.md",
+    "02-study/infrastructure",
+    "02-study/backend/architecture/design-patterns/디자인패턴-Strategy.md",
     "02-study/backend/spring/data/Spring-Data-JPA-연동.md",
-    "02-study/backend/spring/advanced/배치처리-기초.md",
-    "02-study/backend/spring/advanced/스케줄링.md",
-    "02-study/backend/spring/advanced/캐싱-전략.md",
-    "02-study/backend/spring/advanced/이벤트-기반-아키텍처.md",
-    "02-study/backend/spring/advanced/비동기처리-Async.md",
-    "02-study/backend/spring/data/트랜잭션-전파.md",
-    "02-study/backend/spring/data/트랜잭션-관리.md",
-    "02-study/backend/spring/data/트랜잭션-격리수준.md",
-    "02-study/backend/java/Java-Pattern-Matching.md",
-    "02-study/backend/spring/web/검증과-데이터바인딩.md",
-    "02-study/backend/spring/web/예외처리-전략.md",
-    "02-study/backend/spring/web/필터와-인터셉터.md",
-    "02-study/backend/spring/web/DispatcherServlet-동작흐름.md",
-    "02-study/backend/java/Java-불변객체-Immutable.md",
-    "02-study/backend/java/Java-컬렉션-프레임워크.md",
-    "02-study/backend/spring/core/컴포넌트-스캔.md",
-    "02-study/backend/spring/core/AOP-개념과-활용.md",
-    "02-study/backend/spring/core/빈-생명주기와-스코프.md",
-    "02-study/backend/spring/core/IoC-DI-컨테이너.md",
+    "02-study/database/redis/Redis-기본개념-인메모리DB.md",
+    "02-study/tools/CLI-사용가이드.md",
+    "02-study/backend/security/보안-취약점-대응.md",
+    "02-study/backend/security/비밀번호-암호화-BCrypt.md",
+    "05-projects/Bizsync.md",
+    "02-study/backend/security/CORS-설정.md",
+    "02-study/backend/security/OAuth2-기초.md",
+    "02-study/backend/security/리프레시-토큰-전략.md",
+    "02-study/backend/security/JWT-토큰-기반-인증.md",
+    "02-study/backend/security/필터체인-FilterChain.md",
+    "04-interview/tech-interview-prep/기술면접예상문제13.md",
+    "04-interview/tech-interview-prep/기술면접예상문제1.md",
+    "04-interview/tech-interview-prep/기술면접예상문제2.md",
     "02-study/backend/spring/advanced",
     "02-study/backend/spring/data",
     "02-study/backend/spring/web",
     "02-study/backend/spring/core",
     "02-study/backend/tree.txt",
     "02-study/backend/architecture/tree.txt",
-    "02-study/backend/java/Java-함수형인터페이스.md",
-    "02-study/backend/java/Java-인터페이스-추상클래스.md",
-    "02-study/backend/java/Java-정규표현식-Regex.md",
-    "02-study/backend/java/Java-예외처리-Exception.md",
-    "02-study/backend/java/Java-예외처리-심화.md",
-    "02-study/backend/java/Java-열거형-Enum.md",
     "02-study/backend/java/무제",
     "00-inbox/무제",
-    "04-interview/tech-interview-prep",
-    "02-study/tools"
+    "04-interview/tech-interview-prep"
   ]
 }
