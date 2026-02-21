@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "45cc64f769f292f3",
+        "id": "26f8a09e7b4e6e2f",
         "type": "tabs",
         "children": [
           {
-            "id": "0903d3686cef38f1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
-            }
-          },
-          {
-            "id": "b980b581d9a94011",
+            "id": "ee1d16e86a18a9c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-study/infrastructure/Redis-기본개념.md",
+                "file": "04-interview/tech-interview-prep/기술면접예상문제11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Redis-기본개념"
+              "title": "기술면접예상문제11"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,35 +205,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b980b581d9a94011",
+  "active": "ee1d16e86a18a9c3",
   "lastOpenFiles": [
-    "02-study/infrastructure/Redis-데이터타입과명령어.md",
-    "02-study/infrastructure/Redis-캐싱전략.md",
-    "02-study/infrastructure/Redis-PubSub과트랜잭션.md",
-    "02-study/infrastructure/Redis-Spring통합.md",
-    "02-study/infrastructure/Kafka-아키텍처.md",
-    "02-study/infrastructure/Kafka-성능과운영.md",
-    "02-study/infrastructure/Kafka-기본개념.md",
-    "02-study/backend/architecture/SOLID원칙.md",
-    "02-study/infrastructure/Redis-기본개념.md",
-    "02-study/infrastructure/Kafka-Spring통합.md",
-    "02-study/infrastructure/Kafka-Producer-Consumer.md",
-    "02-study/infrastructure",
-    "02-study/backend/architecture/design-patterns/디자인패턴-Strategy.md",
-    "02-study/backend/spring/data/Spring-Data-JPA-연동.md",
-    "02-study/database/redis/Redis-기본개념-인메모리DB.md",
-    "02-study/tools/CLI-사용가이드.md",
-    "02-study/backend/security/보안-취약점-대응.md",
-    "02-study/backend/security/비밀번호-암호화-BCrypt.md",
-    "05-projects/Bizsync.md",
-    "02-study/backend/security/CORS-설정.md",
-    "02-study/backend/security/OAuth2-기초.md",
-    "02-study/backend/security/리프레시-토큰-전략.md",
-    "02-study/backend/security/JWT-토큰-기반-인증.md",
-    "02-study/backend/security/필터체인-FilterChain.md",
+    "04-interview/tech-interview-prep/기술면접예상문제15.md",
+    "04-interview/tech-interview-prep/기술면접예상문제14.md",
     "04-interview/tech-interview-prep/기술면접예상문제13.md",
-    "04-interview/tech-interview-prep/기술면접예상문제1.md",
+    "04-interview/tech-interview-prep/기술면접예상문제12.md",
+    "04-interview/tech-interview-prep/기술면접예상문제11.md",
+    "04-interview/tech-interview-prep/기술면접예상문제10.md",
+    "04-interview/tech-interview-prep/기술면접예상문제9.md",
+    "04-interview/tech-interview-prep/기술면접예상문제8.md",
+    "04-interview/tech-interview-prep/기술면접예상문제6.md",
+    "04-interview/tech-interview-prep/기술면접예상문제7.md",
+    "04-interview/tech-interview-prep/기술면접예상문제3.md",
     "04-interview/tech-interview-prep/기술면접예상문제2.md",
+    "04-interview/tech-interview-prep/기술면접예상문제1.md",
+    "templates/daily-note.md",
+    "templates/interview-question.md",
+    "02-study/infrastructure/WebSocket-기본개념.md",
+    "02-study/infrastructure/WebSocket-Redis연동과확장.md",
+    "02-study/infrastructure/WebSocket-STOMP프로토콜.md",
+    "02-study/infrastructure/WebSocket-Spring통합.md",
+    "02-study/infrastructure/Redis-데이터타입과명령어.md",
+    "02-study/database/jpa/JPA-쿼리-QueryDSL.md",
+    "02-study/database/jpa/JPA-쿼리-JPQL과Criteria.md",
+    "02-study/infrastructure/Redis-기본개념.md",
+    "02-study/infrastructure/Redis-Spring통합.md",
+    "02-study/backend/spring/advanced/비동기처리-Async.md",
+    "02-study/infrastructure/Redis-캐싱전략.md",
+    "02-study/infrastructure",
     "02-study/backend/spring/advanced",
     "02-study/backend/spring/data",
     "02-study/backend/spring/web",
